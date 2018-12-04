@@ -12,4 +12,8 @@ public class RandomStuff
             }
         }
     }
+    public static void side()
+    {
+        System.out.println("helllllllllllllloooooo");
+    }
 }
